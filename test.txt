@@ -1,0 +1,51 @@
+n = 4
+34
+0: 
+b'M\xe1y nh Ly Lin Fujifilm Instax Mini 11-H\xe0ng Ch\xednh H\xe3ng | 1890000 | (44) | https://tiki.vn/may-anh-lay-lien-fujifilm-instax-mini-11-hang-chinh-hang-p55930758.html'
+1: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 9 - Smoky White - H\xe0ng Ch\xednh H\xe3ng | 1499000 | (45) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-9-smoky-white-hang-chinh-hang-p683684.html'
+2: 
+b'M\xe1y nh ly lin Fujifilm Instax Mini LiPlay - H\xe0ng ch\xednh h\xe3ng | 3490000 | (49) | https://tiki.vn/may-anh-lay-lien-fujifilm-instax-mini-liplay-hang-chinh-hang-p26432268.html'
+3: 
+4: 
+b'M\xe1y nh Ly Lin Fujifilm Instax Square SQ20 - H\xe0ng Ch\xednh H\xe3ng | 4290000 | (21) | https://tiki.vn/may-anh-lay-lien-fujifilm-instax-square-sq20-hang-chinh-hang-p14497415.html'
+5: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 9 - Cobalt Blue - H\xe0ng Ch\xednh H\xe3ng | 1399000 | (9) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-9-cobalt-blue-hang-chinh-hang-p683666.html'
+6: 
+7: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 9 - Lime Green - H\xe0ng Ch\xednh H\xe3ng | 1499000 | (34) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-9-lime-green-hang-chinh-hang-p683688.html'
+8: 
+9: 
+b'M\xe1y nh Ly Lin Fujifilm Instax SQ6 - H\xe0ng Ch\xednh H\xe3ng | 2990000 | (3) | https://tiki.vn/may-anh-lay-lien-fujifilm-instax-sq6-hang-chinh-hang-p2383179.html'
+10: 
+11: 
+12: 
+13: 
+14: 
+b'M\xe1y nh Ly Lin Fujifilm Instax SQ6 Taylor Swift (Special Edition) - H\xe0ng ch\xednh h\xe3ng  | 4290000 | (4) | https://tiki.vn/may-anh-lay-lien-fujifilm-instax-sq6-taylor-swift-special-edition-hang-chinh-hang-p4595147.html'
+15: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 9 Clear Purple - H\xe0ng Ch\xednh H\xe3ng | 1499000 | (6) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-9-clear-purple-hang-chinh-hang-p27777121.html'
+16: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 70  - V\xe0ng - H\xe0ng Ch\xednh H\xe3ng | 2690000 | (2) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-70-vang-hang-chinh-hang-p454834.html'
+17: 
+18: 
+19: 
+20: 
+21: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 70 - en - H\xe0ng Ch\xednh H\xe3ng | 2690000 | (2) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-70-den-hang-chinh-hang-p627687.html'
+22: 
+23: 
+24: 
+25: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 70  - Xanh - H\xe0ng Ch\xednh H\xe3ng | 2690000 | (2) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-70-xanh-hang-chinh-hang-p454832.html'
+26: 
+27: 
+28: 
+29: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 70 - V\xe0ng ng - H\xe0ng Ch\xednh H\xe3ng | 2690000 |  | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-70-vang-dong-hang-chinh-hang-p627682.html'
+30: 
+31: 
+32: 
+33: 
+b'M\xe1y nh Selfie Ly Lin Fujifilm Instax Mini 9 Clear Pink - H\xe0ng Ch\xednh H\xe3ng | 1599000 | (13) | https://tiki.vn/may-anh-selfie-lay-lien-fujifilm-instax-mini-9-clear-pink-hang-chinh-hang-p27777114.html'
+--END--
