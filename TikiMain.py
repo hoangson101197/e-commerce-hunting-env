@@ -2,6 +2,7 @@ from TikiTarget import TikiTarget
 from TikiHelper import *
 from TikiItem import TikiItem
 from TikiHunterThread import TikiHunterThread
+from TikiDisplayThread import TikiDisplayThread
 import requests
 from bs4 import BeautifulSoup 
 
@@ -22,6 +23,12 @@ thread2 = TikiHunterThread(targets[1])
 thread2.start()
 # thread2.join()
 threads.append(thread2)
+
+displayThread = TikiDisplayThread()
+displayThread.addHunter(thread1)
+displayThread.addHunter(thread2)
+displayThread.start()
+threads.append(displayThread)
 
 for t in threads: # Chạy 2 thread cùng lúc
     t.join()

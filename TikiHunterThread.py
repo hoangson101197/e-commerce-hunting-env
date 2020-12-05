@@ -4,6 +4,7 @@ from TikiItem import TikiItem
 from TikiHelper import *
 from bs4 import BeautifulSoup
 import requests
+import time
 
 class TikiHunterThread(Thread): #Kế thừa
     MAX_PAGE = 1
@@ -23,6 +24,9 @@ class TikiHunterThread(Thread): #Kế thừa
 
         response = requests.get(searchLink, headers=headers)
         # print(response.text.encode('cp1252', errors='ignore'))
+
+        if response.status_code != 200:
+            return
 
         bsoup = BeautifulSoup(response.text, "lxml")
         # <a> class = search-a-product-item
@@ -71,6 +75,9 @@ class TikiHunterThread(Thread): #Kế thừa
         print("Start Thread " + self.name)
         
         while True:
-            self.__findBestItem()
-
+            try: 
+                self.__findBestItem()
+                time.sleep(5)
+            except:
+                print("Somthing Wrong!!!!")
         print("End Thread: " + self.name)
